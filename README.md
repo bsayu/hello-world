@@ -1,2 +1,3 @@
 # hello-world
-primeiro repositório
+primeiro repositório  
+prazer, meu nome e bruna sayuri.
